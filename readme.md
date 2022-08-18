@@ -1,5 +1,5 @@
-# Causal Inference with Independent Hidden Confounders
-Causal inference with independent hidden confounders.
+# Machine Learning Template
+My machine learning template.
 
 
 ## Requirements
